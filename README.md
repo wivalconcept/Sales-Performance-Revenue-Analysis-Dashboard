@@ -86,6 +86,8 @@ The dataset was cleaned and validated before analysis.
 
 ---
 
+The sql/ directory contains all KPI calculations and analysis queries used to generate the dashboard insights.
+
 ## Repository Structure
 
 ```
