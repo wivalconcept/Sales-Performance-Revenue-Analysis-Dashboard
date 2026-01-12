@@ -88,6 +88,19 @@ The dataset was cleaned and validated before analysis.
 
 The sql/ directory contains all KPI calculations and analysis queries used to generate the dashboard insights.
 
+
+## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](powerbi/dashboard_screenshots/ExecutiveOverview.png)
+
+### Regional Performance
+![Regional Performance](powerbi/dashboard_screenshots/RegionalPerformance.png)
+
+### Product Performance
+![Product Performance](powerbi/dashboard_screenshots/ProductPerformance.png)
+
+
 ## Repository Structure
 
 ```
