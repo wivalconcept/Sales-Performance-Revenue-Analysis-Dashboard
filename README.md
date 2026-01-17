@@ -105,12 +105,22 @@ The sql/ directory contains all KPI calculations and analysis queries used to ge
 ## Repository Structure
 
 ```
-sales-performance-analysis/
-├── data/
+market-expansion-strategy/
+│
+├── README.md
+│
+├── screenshots/
+│   ├── dashboard_overview.png
+│   ├── revenue_by_country.png
+│   ├── monthly_revenue_by_channel.png
+│   └── product_category_performance.png
+│
 ├── sql/
-├── notebooks/
-├── powerbi/
-└── README.md
+│   └── validation_queries.sql
+│
+└── tableau/
+    └── market_expansion_dashboard.twbx
+
 ```
 
 Detailed SQL queries and analysis logic can be found in the `sql/` directory, while the Power BI dashboard and screenshots are available in the `powerbi/` directory.
