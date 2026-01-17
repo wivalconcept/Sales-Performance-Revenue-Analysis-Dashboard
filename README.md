@@ -105,21 +105,8 @@ The sql/ directory contains all KPI calculations and analysis queries used to ge
 ## Repository Structure
 
 ```
-market-expansion-strategy/
-│
-├── README.md
-│
-├── screenshots/
-│   ├── dashboard_overview.png
-│   ├── revenue_by_country.png
-│   ├── monthly_revenue_by_channel.png
-│   └── product_category_performance.png
-│
-├── sql/
-│   └── validation_queries.sql
-│
-└── tableau/
-    └── market_expansion_dashboard.twbx
+
+    
 
 ```
 
