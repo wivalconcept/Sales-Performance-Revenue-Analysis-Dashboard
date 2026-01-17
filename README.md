@@ -105,6 +105,25 @@ The sql/ directory contains all KPI calculations and analysis queries used to ge
 ## Repository Structure
 
 ```
+sales-performance-analysis/
+│
+├── data/
+│   ├── raw_sales_data.csv
+│   ├── cleaned_sales_data.csv
+│
+├── sql/
+│   ├── data_cleaning.sql
+│   ├── kpi_calculations.sql
+│   ├── revenue_analysis.sql
+│
+├── notebooks/
+│   ├── exploratory_data_analysis.ipynb
+│
+├── powerbi/
+│   ├── sales_dashboard.pbix
+│   ├── dashboard_screenshots/
+│
+├── README.md
 
     
 
